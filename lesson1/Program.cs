@@ -11,7 +11,7 @@ namespace GeekAlgorithm
             Console.WriteLine("task = " + task);
             switch (task)
             {
-                case 13:
+                case 14:
                     Console.WriteLine("Введите натуральное число");
                     int.TryParse(Console.ReadLine(), out var number);
                     for (int i = 0; i <= number; i++)
