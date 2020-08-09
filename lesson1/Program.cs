@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Runtime.InteropServices;
 
 namespace GeekAlgorithm
 {
@@ -12,6 +13,23 @@ namespace GeekAlgorithm
             Console.WriteLine("task = " + task);
             switch (task)
             {
+                case 12:
+                    int a, b, c;
+                    Console.WriteLine("Введите первое число");
+                    int.TryParse(Console.ReadLine(), out a);
+                    Console.WriteLine("Введите второе число");
+                    int.TryParse(Console.ReadLine(), out b);
+                    Console.WriteLine("Введите третье число");
+                    int.TryParse(Console.ReadLine(), out c);
+                    if (a > b)
+                    {
+                        if (a > c) Console.WriteLine("максимальное число : " + a);
+                        else Console.WriteLine("максимальное число : " + c);
+                    }
+                    else if (b > c) Console.WriteLine("максимальное число : " + b);
+                    else Console.WriteLine("максимальное число : " + c);
+
+                    break;
                 case 13:
                     Random rnd = new Random();
 
@@ -20,7 +38,7 @@ namespace GeekAlgorithm
                         Console.WriteLine("Случайное число с использованием стандартного ГПСЧ : " + rnd.Next(1, 100));
                         Console.WriteLine("Случайное число без использования стандартного ГПСЧ : " + Rnd(ref seed));
                     }
-                    
+
                     break;
                 case 14:
                     Console.WriteLine("Введите натуральное число");
