@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dbadd98e-cadc-4d69-a46a-b9f9e2d29a4e" name="Default Changelist" comment="-12 task done" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="lesson1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="Thifer" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="GeekAlgorithm" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/50A7D4C6-BF79-402F-B57E-36B7C2AAE5E0/cf/b1f42302/Random.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../.git/info/exclude" />
+        <option value="$PROJECT_DIR$/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fqp9BSWJP0IM9gcGuHnXQ7mTvK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.4" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="GeekAlgorithm" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/GeekAlgorithm.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbadd98e-cadc-4d69-a46a-b9f9e2d29a4e" name="Default Changelist" comment="" />
+      <created>1596955322870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596955322870</updated>
+      <workItem from="1596955324296" duration="6589000" />
+      <workItem from="1597219226640" duration="114000" />
+    </task>
+    <task id="LOCAL-00001" summary="-init">
+      <created>1596955402067</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596955402067</updated>
+    </task>
+    <task id="LOCAL-00002" summary="-complete 13 task">
+      <created>1596958628702</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596958628702</updated>
+    </task>
+    <task id="LOCAL-00003" summary="-fix">
+      <created>1596958672967</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596958672967</updated>
+    </task>
+    <task id="LOCAL-00004" summary="-13 task done">
+      <created>1596960591145</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596960591145</updated>
+    </task>
+    <task id="LOCAL-00005" summary="-12 task done">
+      <created>1596961472545</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1596961472545</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="-init" />
+    <MESSAGE value="-complete 14 task" />
+    <MESSAGE value="-fix" />
+    <MESSAGE value="-13 task done" />
+    <MESSAGE value="-12 task done" />
+    <option name="LAST_COMMIT_MESSAGE" value="-12 task done" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1144" y="602" key="GitRewordDialog" timestamp="1596958657002">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1144" y="602" key="GitRewordDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1596958657002" />
+    <state x="1067" y="568" key="Github.CreatePullRequestDialog" timestamp="1596961511696">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1067" y="568" key="Github.CreatePullRequestDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1596961511696" />
+    <state width="2517" height="482" key="GridCell.Tab.0.bottom" timestamp="1596967277573">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="482" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1596967277573" />
+    <state width="2517" height="482" key="GridCell.Tab.0.center" timestamp="1596967277573">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="482" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1596967277573" />
+    <state width="2517" height="482" key="GridCell.Tab.0.left" timestamp="1596967277573">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="482" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1596967277573" />
+    <state width="2517" height="482" key="GridCell.Tab.0.right" timestamp="1596967277573">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="482" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1596967277573" />
+    <state width="2517" height="482" key="GridCell.Tab.1.bottom" timestamp="1596967277573">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="482" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1596967277573" />
+    <state width="2517" height="482" key="GridCell.Tab.1.center" timestamp="1596967277573">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="482" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1596967277573" />
+    <state width="2517" height="482" key="GridCell.Tab.1.left" timestamp="1596967277573">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="482" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1596967277573" />
+    <state width="2517" height="482" key="GridCell.Tab.1.right" timestamp="1596967277573">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="482" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1596967277573" />
+    <state width="2517" height="482" key="GridCell.Tab.2.bottom" timestamp="1596967277574">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="482" key="GridCell.Tab.2.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1596967277574" />
+    <state width="2517" height="482" key="GridCell.Tab.2.center" timestamp="1596967277573">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="482" key="GridCell.Tab.2.center/0.0.2560.1400@0.0.2560.1400" timestamp="1596967277573" />
+    <state width="2517" height="482" key="GridCell.Tab.2.left" timestamp="1596967277573">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="482" key="GridCell.Tab.2.left/0.0.2560.1400@0.0.2560.1400" timestamp="1596967277573" />
+    <state width="2517" height="482" key="GridCell.Tab.2.right" timestamp="1596967277574">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="482" key="GridCell.Tab.2.right/0.0.2560.1400@0.0.2560.1400" timestamp="1596967277574" />
+    <state width="2517" height="482" key="GridCell.Tab.3.bottom" timestamp="1596967277574">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="482" key="GridCell.Tab.3.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1596967277574" />
+    <state width="2517" height="482" key="GridCell.Tab.3.center" timestamp="1596967277574">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="482" key="GridCell.Tab.3.center/0.0.2560.1400@0.0.2560.1400" timestamp="1596967277574" />
+    <state width="2517" height="482" key="GridCell.Tab.3.left" timestamp="1596967277574">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="482" key="GridCell.Tab.3.left/0.0.2560.1400@0.0.2560.1400" timestamp="1596967277574" />
+    <state width="2517" height="482" key="GridCell.Tab.3.right" timestamp="1596967277574">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="482" key="GridCell.Tab.3.right/0.0.2560.1400@0.0.2560.1400" timestamp="1596967277574" />
+    <state x="872" y="433" key="Rider.ProjectTemplateDialog.Size" timestamp="1597219334040">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="433" key="Rider.ProjectTemplateDialog.Size/0.0.2560.1400@0.0.2560.1400" timestamp="1597219334040" />
+    <state x="872" y="434" key="Vcs.Push.Dialog.v2" timestamp="1596961478655">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="434" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1596961478655" />
+  </component>
+</project>
