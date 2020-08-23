@@ -16,7 +16,7 @@ namespace lesson5
 
         public static void Main(string[] args)
         {
-            //Check();
+            Check();
             transfer(Console.ReadLine());
         }
 
