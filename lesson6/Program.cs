@@ -4,15 +4,13 @@ using System.Diagnostics.PerformanceData;
 
 namespace lesson6
 {
-    // 1. Реализовать простейшую хеш-функцию. На вход функции подается строка, на выходе сумма кодов символов.
-
-
+    
     internal class Program
     {
         public static void Main(string[] args)
         {
             task1();
-            //task2();
+            task2();
         }
 
         #region Task1
