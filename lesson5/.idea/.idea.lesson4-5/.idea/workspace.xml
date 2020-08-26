@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b536d35-9acc-4c65-9246-5a3ef36d6d3c" name="Default Changelist" comment="&#10;-add lesson4">
+      <change beforePath="$PROJECT_DIR$/../lesson5/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson5/Program.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="Thifer" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="GeekAlgorithm" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../lesson5/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../lesson5/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../.gitignore" />
+        <option value="$PROJECT_DIR$/Program.cs" />
+        <option value="$PROJECT_DIR$/lesson4-5.sln" />
+        <option value="$PROJECT_DIR$/../lesson5/lesson4-5.sln" />
+        <option value="$PROJECT_DIR$/../lesson5/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gUJZFJWKkaQTsup6PCpx4PsBK3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.4" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="lesson4-5" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/../lesson5/lesson5.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b536d35-9acc-4c65-9246-5a3ef36d6d3c" name="Default Changelist" comment="" />
+      <created>1598163290926</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598163290926</updated>
+      <workItem from="1598163292287" duration="13343000" />
+    </task>
+    <task id="LOCAL-00001" summary="-init">
+      <created>1598163361075</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598163361076</updated>
+    </task>
+    <task id="LOCAL-00002" summary="done lesson5-1">
+      <created>1598164904615</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598164904615</updated>
+    </task>
+    <task id="LOCAL-00003" summary="done lesson5-2">
+      <created>1598175420515</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598175420515</updated>
+    </task>
+    <task id="LOCAL-00004" summary="-clear comment">
+      <created>1598175493557</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598175493557</updated>
+    </task>
+    <task id="LOCAL-00005" summary="&#10;-add lesson4">
+      <created>1598178367830</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1598178367830</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="-init" />
+    <MESSAGE value="done lesson5-1" />
+    <MESSAGE value="done lesson5-2" />
+    <MESSAGE value="-clear comment" />
+    <MESSAGE value="&#10;-add lesson4" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;-add lesson4" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1196" y="454" key="#xdebugger.XInspectDialog" timestamp="1598178805844">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1196" y="454" key="#xdebugger.XInspectDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1598178805844" />
+    <state width="400" height="466" key="DebuggerActiveHint" timestamp="1598170661539">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="400" height="466" key="DebuggerActiveHint/0.0.2560.1400@0.0.2560.1400" timestamp="1598170661539" />
+    <state x="1067" y="568" key="Github.CreatePullRequestDialog" timestamp="1598178420284">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1067" y="568" key="Github.CreatePullRequestDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1598178420284" />
+    <state width="2517" height="387" key="GridCell.Tab.0.bottom" timestamp="1598178966470">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="387" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1598178966470" />
+    <state width="2517" height="387" key="GridCell.Tab.0.center" timestamp="1598178966470">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="387" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1598178966470" />
+    <state width="2517" height="387" key="GridCell.Tab.0.left" timestamp="1598178966470">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="387" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1598178966470" />
+    <state width="2517" height="387" key="GridCell.Tab.0.right" timestamp="1598178966470">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="387" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1598178966470" />
+    <state width="2517" height="482" key="GridCell.Tab.1.bottom" timestamp="1598178966465">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="482" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1598178966465" />
+    <state width="2517" height="482" key="GridCell.Tab.1.center" timestamp="1598178966464">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="482" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1598178966464" />
+    <state width="2517" height="482" key="GridCell.Tab.1.left" timestamp="1598178966464">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="482" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1598178966464" />
+    <state width="2517" height="482" key="GridCell.Tab.1.right" timestamp="1598178966465">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="482" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1598178966465" />
+    <state width="2517" height="482" key="GridCell.Tab.2.bottom" timestamp="1598178966465">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="482" key="GridCell.Tab.2.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1598178966465" />
+    <state width="2517" height="482" key="GridCell.Tab.2.center" timestamp="1598178966465">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="482" key="GridCell.Tab.2.center/0.0.2560.1400@0.0.2560.1400" timestamp="1598178966465" />
+    <state width="2517" height="482" key="GridCell.Tab.2.left" timestamp="1598178966465">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="482" key="GridCell.Tab.2.left/0.0.2560.1400@0.0.2560.1400" timestamp="1598178966465" />
+    <state width="2517" height="482" key="GridCell.Tab.2.right" timestamp="1598178966465">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="482" key="GridCell.Tab.2.right/0.0.2560.1400@0.0.2560.1400" timestamp="1598178966465" />
+    <state width="2517" height="482" key="GridCell.Tab.3.bottom" timestamp="1598178966465">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="482" key="GridCell.Tab.3.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1598178966465" />
+    <state width="2517" height="482" key="GridCell.Tab.3.center" timestamp="1598178966465">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="482" key="GridCell.Tab.3.center/0.0.2560.1400@0.0.2560.1400" timestamp="1598178966465" />
+    <state width="2517" height="482" key="GridCell.Tab.3.left" timestamp="1598178966465">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="482" key="GridCell.Tab.3.left/0.0.2560.1400@0.0.2560.1400" timestamp="1598178966465" />
+    <state width="2517" height="482" key="GridCell.Tab.3.right" timestamp="1598178966465">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="482" key="GridCell.Tab.3.right/0.0.2560.1400@0.0.2560.1400" timestamp="1598178966465" />
+    <state x="872" y="433" key="Rider.ProjectTemplateDialog.Size" timestamp="1598163291102">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="433" key="Rider.ProjectTemplateDialog.Size/0.0.2560.1400@0.0.2560.1400" timestamp="1598163291102" />
+    <state x="872" y="434" key="Vcs.Push.Dialog.v2" timestamp="1598178384061">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="434" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1598178384061" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="DotNetProject">
+        <watch expression="Field" />
+        <watch expression="Field" language="C#" custom="RiderImportsList:" />
+        <watch expression="array" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
